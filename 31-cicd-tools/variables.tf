@@ -11,7 +11,7 @@ variable "zone_id" {
 }
 
 variable "domain_name" {
-    default = "daws88s.online"
+    default = "shalinidaws88s.online"
 }
 
 variable "sonar" {
